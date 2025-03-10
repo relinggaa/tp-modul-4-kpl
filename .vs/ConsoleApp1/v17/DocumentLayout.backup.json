@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0086A73-4388-4CCA-8517-D752C1333D1D}|ConsoleApp1\\ConsoleApp1.csproj|e:\\data\\kuliah\\semester4\\kpl\\praktikum_kpl\\modul4\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0086A73-4388-4CCA-8517-D752C1333D1D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0086A73-4388-4CCA-8517-D752C1333D1D}|ConsoleApp1\\ConsoleApp1.csproj|e:\\data\\kuliah\\semester4\\kpl\\praktikum_kpl\\modul4\\consoleapp1\\consoleapp1\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0086A73-4388-4CCA-8517-D752C1333D1D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0086A73-4388-4CCA-8517-D752C1333D1D}|ConsoleApp1\\ConsoleApp1.csproj|e:\\data\\kuliah\\semester4\\kpl\\praktikum_kpl\\modul4\\consoleapp1\\consoleapp1\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0086A73-4388-4CCA-8517-D752C1333D1D}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\doormachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoorMachine.cs",
+              "DocumentMoniker": "E:\\DATA\\kuliah\\Semester4\\kpl\\praktikum_kpl\\Modul4\\ConsoleApp1\\ConsoleApp1\\DoorMachine.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\DoorMachine.cs",
+              "ToolTip": "E:\\DATA\\kuliah\\Semester4\\kpl\\praktikum_kpl\\Modul4\\ConsoleApp1\\ConsoleApp1\\DoorMachine.cs",
+              "RelativeToolTip": "ConsoleApp1\\DoorMachine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:35:31.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "E:\\DATA\\kuliah\\Semester4\\kpl\\praktikum_kpl\\Modul4\\ConsoleApp1\\ConsoleApp1\\KodePos.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\KodePos.cs",
+              "ToolTip": "E:\\DATA\\kuliah\\Semester4\\kpl\\praktikum_kpl\\Modul4\\ConsoleApp1\\ConsoleApp1\\KodePos.cs",
+              "RelativeToolTip": "ConsoleApp1\\KodePos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T17:34:07.167Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "E:\\DATA\\kuliah\\Semester4\\kpl\\praktikum_kpl\\Modul4\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T17:31:33.178Z",
               "EditorCaption": ""
