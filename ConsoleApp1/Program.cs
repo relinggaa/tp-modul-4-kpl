@@ -32,7 +32,7 @@ namespace ConsoleApp1
                 }
             }
         }
-//
+
         static void HandleKodePos()
         {
             KodePos kodePos = new KodePos();
